@@ -1,7 +1,7 @@
-# wrenchit
+# Wrench It!
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
-### Wrench It! [Em construção :warning:]
+### [Em construção :warning:]
 
 Esse projeto é uma tentativa de fazer uma máscara estilo Wrench do Watch Dogs 2 que possa ser usada com certa facilidade. Talvez em um surto pandêmico rs.
 
